@@ -39,7 +39,7 @@ Other timing-related data
 
 Both files must follow the Friday Night Funkin' V-Slice JSON format.
 
-Charts from other engines, such as Psych Engine or Kade Engine, are not guaranteed to work without conversion.
+Charts from other engines, such as Psych Engine or Codename Engine, are not guaranteed to work without conversion.
 
 Requirements and Dependencies
 
