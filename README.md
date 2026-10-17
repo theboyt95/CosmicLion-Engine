@@ -1,5 +1,4 @@
-# CosmicLionEngine
-CosmicLion Engine
+# CosmicLion Engine
 
 Welcome to CosmicLion Engine!
 
