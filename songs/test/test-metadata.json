@@ -1,0 +1,42 @@
+{
+ "version": "2.2.4",
+ "songName": "Test",
+ "artist": "Hanck",
+ "charter": "sr. boyt95",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": "dad",
+   "opponentVocals": [
+    "dad"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+  "stage": "mainStage",
+  "noteStyle": "funkin",
+  "ratings": {
+   "easy": 0
+  },
+  "album": "volume1",
+  "stickerPack": "default",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.6",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 115,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

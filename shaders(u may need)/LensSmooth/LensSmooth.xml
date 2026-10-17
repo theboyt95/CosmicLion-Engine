@@ -1,0 +1,26 @@
+<effect>
+<name>Lens (smooth)</name>
+<description>Zoom the background using the object's texture.</description>
+<author>Looki (edit by Rhadamus)</author>
+<BackgroundTexture>1</BackgroundTexture>
+
+<sampler>
+<index>1</index>
+<filter>linear</filter>
+</sampler>
+
+<parameter>
+<name>Coeff</name>
+<variable>fCoeff</variable>
+<type>float</type>
+<value>1.0</value>
+</parameter>
+
+<parameter>
+<name>Base</name>
+<variable>fBase</variable>
+<type>float</type>
+<value>1.0</value>
+</parameter>
+</effect>
+
