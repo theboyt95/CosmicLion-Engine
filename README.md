@@ -1,6 +1,8 @@
 # CosmicLion Engine
 
-<img width="1100" height="1100" alt="Image" src="https://github.com/user-attachments/assets/1b12d8ca-c6ef-400a-bdd7-5d5e9e1355d7" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/1b12d8ca-c6ef-400a-bdd7-5d5e9e1355d7" />
+
+
 
 Welcome to CosmicLion Engine!
 
