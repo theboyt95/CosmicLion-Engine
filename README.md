@@ -20,6 +20,8 @@ Beat and Step Tracking: Keeps gameplay events synchronized with the song, includ
 
 
 [!IMPORTANT]
+
+
 CosmicLion Engine requires BOTH a V-Slice chart JSON file and its corresponding metadata JSON file to load a song correctly.
 Chart JSON
 
@@ -55,6 +57,9 @@ Array	Stores and manages chart information.
 String Parser	Handles string processing.
 Easing Object	Provides smooth camera transitions and animations.
 Control X	Supports custom keybinds.
+
+
+
 ⚠️ Clickteam Fusion 2.5+ Is Required!
 
 This engine uses Child Events, a feature introduced with the Clickteam Fusion 2.5+ DLC.
@@ -65,7 +70,9 @@ Please make sure all required extensions are properly installed before opening t
 
 These requirements apply to developers editing or compiling the source project, not necessarily to players running a compiled game.
 
-Usage and Credits
+
+
+Usage and Credits:
 
 CosmicLion Engine is free to use and modify!
 
